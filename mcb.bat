@@ -1,0 +1,1 @@
+@py.exe "C:\Users\stevend\Documents\Python Scripts\mcb.pyw" %*
